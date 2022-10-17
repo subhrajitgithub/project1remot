@@ -2,4 +2,4 @@
 *.pdf
 *.net
 *.txt
-
+!one.py
